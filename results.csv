@@ -1,0 +1,8 @@
+_col0,application_name,url,raw_url,org_id,decision_process,decision_human,reason_process,reason_human
+25968,msedge,https://outlook.office.com,https://outlook.office.com/mail/inbox/id/AAQkAGQxNTQ2NjIyLWQzZTctNGIzZC1hYTY1LTAzMzRlMWJmZWYxYQAQALrF26Icy0Oxno15o0ySswY%3D,38e73e3e-a8ba-4f20-8e4b-e7dd095c6c5b,1,1,Precedence (Exclude URL),
+19061,msedge,https://outlook.office.com,https://outlook.office.com/mail/inbox/id/AAQkAGQxNTQ2NjIyLWQzZTctNGIzZC1hYTY1LTAzMzRlMWJmZWYxYQAQAKTKNfADKkHsn6aEjDQcnPI%3D,38e73e3e-a8ba-4f20-8e4b-e7dd095c6c5b,1,1,Precedence (Exclude URL),
+8459,chrome,https://max.niceincontact.com,https://max.niceincontact.com/index.html,38e73e3e-a8ba-4f20-8e4b-e7dd095c6c5b,0,0,Reason: Domain and sample text do not indicate healthcare focus.,
+8404,chrome,https://ww2.radiologynotifications.com,https://ww2.radiologynotifications.com/united/screens/CreateCase.aspx,38e73e3e-a8ba-4f20-8e4b-e7dd095c6c5b,1,1,Precedence (Exclude URL),
+7591,chrome,https://web.pypestream.com,https://web.pypestream.com/,38e73e3e-a8ba-4f20-8e4b-e7dd095c6c5b,0,0,Reason: Domain does not indicate healthcare revenue cycle work.,
+6976,msedge,https://accessportal.jpmorgan.com,https://accessportal.jpmorgan.com/hcui/#/search,38e73e3e-a8ba-4f20-8e4b-e7dd095c6c5b,1,1,Precedence (Exclude URL),
+5523,msedge,https://emergencycarereporting.communitycare.va.gov,https://emergencycarereporting.communitycare.va.gov/form/PRO,38e73e3e-a8ba-4f20-8e4b-e7dd095c6c5b,1,1,Precedence (Exclude URL),
