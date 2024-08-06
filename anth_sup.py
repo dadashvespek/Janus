@@ -1,9 +1,9 @@
+import os
+from dotenv import load_dotenv
 import anthropic
-
-
-client = anthropic.Anthropic(
-    api_key="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",
-)
+load_dotenv()
+api_key = os.getenv("ANTHROPIC_API_KEY")
+client = anthropic.Anthropic(api_key=api_key)
 def text_processor(prompt):
     message = client.messages.create(
         model="claude-3-opus-20240229",
